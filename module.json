@@ -20,6 +20,7 @@
             "path": "lang/uk.json"
         }
     ],
+    "coreTranslation": true,
     "manifest": "https://raw.githubusercontent.com/xfreed/foundry-vtt-ua/main/module.json",
     "download": "https://github.com/xfreed/foundry-vtt-ua/archive/refs/heads/main.zip",
     "url": "https://github.com/xfreed/foundry-vtt-ua"
