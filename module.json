@@ -1,0 +1,26 @@
+{
+    "id": "lang-uk",
+    "title": "💙💛 Ukrainian Localization | Український переклад",
+    "description": "Переклад інтерфейсу Foundry VTT українською мовою",
+    "authors": [
+        {
+            "name": "xFreeD",
+            "url": "https://github.com/xfreed"
+        }
+    ],
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "languages": [
+        {
+            "lang": "uk",
+            "name": "Українська (Ukrainian)",
+            "path": "lang/uk.json"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/xfreed/foundry-vtt-ua/main/module.json",
+    "download": "https://github.com/xfreed/foundry-vtt-ua/archive/refs/heads/main.zip",
+    "url": "https://github.com/xfreed/foundry-vtt-ua"
+}
