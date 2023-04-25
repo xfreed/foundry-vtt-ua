@@ -80,14 +80,12 @@
     "XCoord": "X-координати",
     "YCoord": "Y-координати",
     "Yes": "Так",
-    
     "ADVENTURE.ImportSubmit": "Імпортувати пригоду",
     "ADVENTURE.ImportProgress": "Імпортування",
     "ADVENTURE.ImportHeaderOverview": "Опис",
     "ADVENTURE.ImportHeaderContents": "Вміст",
     "ADVENTURE.ImportOverwriteTitle": "Перезаписати Наявний Вміст?",
     "ADVENTURE.ImportOverwriteWarning": "Деякий матераіл {name} з пригоди вже існує у вашому Світі. Якщо ви імпортуєте пригоду, то деякий матеаріл буде перезаписано. Хочете продовжити?",
-    
     "ADVENTURE.Name": "Назва Пригоди",
     "ADVENTURE.NameHint": "Оберіть назву для цієї пригоди, яка буде унікальною в межах поточного набору шо її містить.",
     "ADVENTURE.Image": "Баннер Зображення",
@@ -96,7 +94,6 @@
     "ADVENTURE.CaptionHint": "Надайте текстовий опис, який буде відображатись під банером. Цей підпис може містити HTML-код або простий текст.",
     "ADVENTURE.Description": "Опис Пригоди",
     "ADVENTURE.DescriptionHint": "Надайте опис, який містить загальний огляд та синопсис пригоди.",
-    
     "ADVENTURE.Create": "Створити Пригоду",
     "ADVENTURE.ExportEdit": "Оновити Пригоду",
     "ADVENTURE.ExportSubmit": "Побудувати Пригоду",
@@ -107,9 +104,7 @@
     "ADVENTURE.ExportPrimaryDocumentsOnly": "Ви можете додавати тільки основні Документи, які існують у Світі",
     "ADVENTURE.CreateSuccess": "Пригода \"{name}\" була успішно створена!",
     "ADVENTURE.UpdateSuccess": "Пригода  \"{name}\" була успішно обновленна!",
-    
     "APP.NavigateBackConfirm": "Ви точно хочете вийти Foundry Virtual Tabletop?",
-    
     "CARDS.CardsDeck": "Колода Карт",
     "CARDS.CardsHand": "Карти в руці",
     "CARDS.CardsPile": "Стопка карт",
@@ -157,7 +152,6 @@
     "CARDS.Reset": "Скинути",
     "CARDS.ResetConfirm": "Ви впевнені, що хочете скинути {name}? Усі роздані карти будуть відкликані.",
     "CARDS.ReturnConfirm": "Ви впевнені? Усі карти в {name} будуть повернені до їх вихідних колод.",
-    
     "CARDS.NotifyShuffle": "Перетасовано: {link}",
     "CARDS.NotifyPass": "Передано {number} карт до: {link}",
     "CARDS.NotifyPlay": "Зіграно {number} карт до: {link}",
@@ -166,7 +160,6 @@
     "CARDS.NotifyDeal": "Роздано {number} карт кожному до: {link}",
     "CARDS.NotifyReset": "Відкликано усі карти до: {link}",
     "CARDS.NotifyReturn": "Повернуто усі карти з: {link}",
-    
     "CARD.Create": "Створити карту",
     "CARD.Delete": "Видалити карту",
     "CARD.Edit": "Редагувати карту",
@@ -197,7 +190,6 @@
     "CARD.Unknown": "Невідомо ({source})",
     "CARD.Play": "Зіграти карту",
     "CARD.PlayHint": "Зіграти цю карту, передавши її в іншу руку або стопку.",
-    
     "CHAT.Chat": "Чат",
     "CHAT.Clear": "Очистити Чат",
     "CHAT.Export": "Експортувати історію чату",
@@ -217,7 +209,6 @@
     "CHAT.RollTables": "Таблиці Кидків",
     "CHAT.PrivateRollContent": "{user} зробив прихований кидок",
     "CHAT.UnknownUser": "Невідомий Користувач",
-    
     "COMBAT.NavLabel": "Навігація Бойових Зіткненнь",
     "COMBAT.Begin": "Почати Бій",
     "COMBAT.Create": "Створити Зіткнення",
@@ -262,7 +253,6 @@
     "COMBAT.TurnPrev": "Попередній Хід",
     "COMBAT.UnknownCombatant": "Невідомий Учасник Бою",
     "COMBAT.Unlinked": "Неприв'язаний бій, натисніть, щоб прив'язати до сцени",
-    
     "COMBAT.CombatantActor": "Представлений Актор",
     "COMBAT.CombatantCreate": "Створити Учасника Бою",
     "COMBAT.CombatantDefeated": "Переможений",
@@ -278,7 +268,6 @@
     "COMBAT.CombatantToken": "Представлений Токен",
     "COMBAT.CombatantScene": "Сцена Учасника Бою",
     "COMBAT.CombatantNotInScene": "Учасник Бою {name} відсутній на поточній сцені",
-    
     "COMPENDIUM.Name": "Назва Компендіуму",
     "COMPENDIUM.Create": "Створити Компендіум",
     "COMPENDIUM.CreateHint": "Створіть новий Компендіум у вашому поточному Світі.",
@@ -301,7 +290,6 @@
     "COMPENDIUM.ToggleVisibility": "Перемкнути Видимість",
     "COMPENDIUM.ToggleLocked": "Перемкнути блокування редагування",
     "COMPENDIUM.ToggleLockedWarning": "Ви намагаєтеся розблокувати для редагування компендіум, що не належить до цього Світу. Будь-які зміни, внесені вами в цьому компендіумі, можуть бути втрачені при оновленні системи або модуля. Ви можете створити копію компендіуму у ваш світ натомість. Бажаєте продовжити?",
-    
     "CONTROLS.Title": "Довідка з ігрових налаштувань",
     "CONTROLS.NavLabel": "Панель Керування Полотном",
     "CONTROLS.Instructions": "Ця форма описує загальні команди клавіатури та миші, які використовуються для керування різними аспектами середовища Foundry Virtual Tabletop. Деякі елементи керування доступні лише для користувача 'Game Master' і виділяються на яскравому фіолетовому фоні.",
@@ -433,16 +421,13 @@
     "CONTROLS.DrawingHeader": "Керування Засобами Малювання",
     "CONTROLS.DrawingTextConfirm": "Підтвердити Написаний Текст",
     "CONTROLS.DrawingTextCancel": "Скасувати Написаний Текст",
-    
     "DICE.ErrorNonNumeric": "Формула кидання кренелів {formula} не дала числового результату.",
     "DICE.WarnMissingData": "Атрибут {match} не був присутній в наданих даних кидка.",
-    
     "DOCUMENT.Create": "Створити Новий {type}",
     "DOCUMENT.Delete": "Видалити {type}",
     "DOCUMENT.New": "Новий {type}",
     "DOCUMENT.Update": "Оновити {type}",
     "DOCUMENT.SkipCreate": "Пропустити Створення",
-    
     "DOCUMENT.ImportData": "Імпорт Даних",
     "DOCUMENT.ImportDataError": "Ви не завантажили файл!",
     "DOCUMENT.ImportDataHint1": "Ви можете імпортувати дані для цього {document} з експортованого JSON файлу.",
@@ -452,7 +437,6 @@
     "DOCUMENT.SheetPermissionWarn": "У вас немає прав для перегляду {document}.",
     "DOCUMENT.UsePermissionWarn": "У вас немає прав для використання {document}.",
     "DOCUMENT.IdCopiedClipboard": "{label} {type} \"{id}\" скопійовано до буфера обміну.",
-    
     "DOCUMENT.ActiveEffect": "Активний Ефект",
     "DOCUMENT.ActiveEffects": "Активні Ефекти",
     "DOCUMENT.Actor": "Актор",
@@ -472,7 +456,7 @@
     "DOCUMENT.Combats": "Бойові Зіткнення",
     "DOCUMENT.Combatant": "Учасник Бою",
     "DOCUMENT.Combatants": "Учасники Бою",
-    "DOCUMENT.CopyOf": "{name} (Copy)",
+    "DOCUMENT.CopyOf": "{name} (Копія)",
     "DOCUMENT.Drawing": "Малюнок",
     "DOCUMENT.Drawings": "Малюноки",
     "DOCUMENT.Folder": "Папка",
@@ -509,7 +493,6 @@
     "DOCUMENT.Users": "Користувачі",
     "DOCUMENT.Wall": "Стіна",
     "DOCUMENT.Walls": "Стіни",
-    
     "DRAWING.ConfigDefaultTitle": "Типові Налаштування для Малювання",
     "DRAWING.SubmitDefault": "Налаштувати за замовчуванням",
     "DRAWING.SubmitCreate": "Створити Малюнок",
@@ -545,7 +528,6 @@
     "DRAWING.FontSize": "Розмір Шрифта",
     "DRAWING.TextColor": "Колір Тексту",
     "DRAWING.TextOpacity": "Непрозорість Тексту",
-    
     "EFFECT.MODE_CUSTOM": "Власний",
     "EFFECT.MODE_MULTIPLY": "Помножити",
     "EFFECT.MODE_ADD": "Додати",
@@ -571,7 +553,6 @@
     "EFFECT.ChangeMode": "Значення Ефекту",
     "EFFECT.ChangeValue": "Значення Ефекту",
     "EFFECT.Submit": "Зберегти Зміни",
-    
     "EFFECT.StatusAsleep": "Спить",
     "EFFECT.StatusDead": "Мертвий",
     "EFFECT.StatusUnconscious": "Непритомний",
@@ -605,7 +586,6 @@
     "EFFECT.StatusIceShield": "Крижаний Щит",
     "EFFECT.StatusMagicShield": "Магічний Щит",
     "EFFECT.StatusHolyShield": "Святий Щит",
-    
     "ERROR.BrowserVersion": "Foundry Virtual Tabletop використовує сучасні функції JavaScript, які не підтримуються з версією {browser} меншою за {minimum}. Ви використовуєте {browser} версію {version}. Будь ласка, оновіться або використовуйте інший браузер.",
     "ERROR.ElectronVersion": "Ви використовуєте стару версію Foundry Virtual Tabletop Electron клієнта. Для оптимальної роботи рекомендуємо повторно завантажити потрібну версію Foundry Virtual Tabletop і виконати повне перевстановлення програмного забезпечення.",
     "ERROR.LowResolution": "Для Foundry Virtual Tabletop необхідний мінімальний розмір екрану {reqWidth}px на {reqHeight}px або вище. На вашому екрані ефективна роздільна здатність {width}пікселів на {height}px, у результаті багато функцій програмного забезпечення можуть працювати некоректно.",
@@ -619,16 +599,13 @@
     "ERROR.CantWhisper": "Ви не маєте дозволу на надсилання приватних повідомлень іншим користувачам.",
     "ERROR.RendererNotDetected": "Ваш рендер GPU не може бути ідентифікований, можуть виникнути неочікувані проблеми з продуктивністю.",
     "ERROR.NoHardwareAcceleration": "Ваш веббраузер не має залученого апаратного прискорення. Це може серйозно вплинути на продуктивність Foundry Virtual Tabletop. Обов'язково увімкніть апаратне прискорення в налаштуваннях браузера.",
-    
     "WARNING.GridConfigNoBG": "Ви використовуєте інструмент конфігурації сітки для сцени без фонового зображення. На даний момент це не рекомендується і може створювати непередбачувані результати.",
     "WARNING.ForegroundDimensionsMismatch": "Розміри вашого налаштованого зображення фонового шару не відповідають розмірам фонового зображення на цій сцені. Передній план був змінений, що, можливо, матиме небажані результати.",
     "WARNING.ObjectDoesNotExist": "{name} \"{identifier}\" не існує.",
-    
     "EULA.Acknowledge": "Підтверджую Угоду",
     "EULA.Agree": "Погоджуюсь",
     "EULA.AgreeHint": "Я приймаю ці умови",
     "EULA.Decline": "Відмовитись",
-    
     "EDITOR.Format": "Формат",
     "EDITOR.Font": "Шрифт",
     "EDITOR.Inline": "Лінія",
@@ -681,7 +658,6 @@
     "EDITOR.Reveal": "Розкрити",
     "EDITOR.Hide": "Приховати",
     "EDITOR.CollaboratingUsers": "Співпраця користувачів",
-    
     "FILES.CreateDirectory": "Створити Папку",
     "FILES.CreateSubfolder": "Створити ПідПапку",
     "FILES.TogglePrivacy": "Перемкнути Режим Конфіденційності",
@@ -703,7 +679,6 @@
     "FILES.ErrorTooLarge": "Файл, який ви намагалися завантажити, занадто великий для роботи з вашим проксі-сервером.",
     "FILES.ErrorSomethingWrong": "Щось пішло не так з вашим запитом на завантаження файлу.",
     "FILES.WarnUploadModules": "Ви завантажили файли до папки модуля або системи. Як правило, це <strong>небезпечно</strong>, оскільки оновлення системи або модуля видалять ваші файли.",
-    
     "FILES.TitleAny": "Файловий Менеджер",
     "FILES.TitleFolder": "Менеджер Папок",
     "FILES.TitleFont": "Менеджер Шрифтів",
@@ -715,7 +690,6 @@
     "FILES.SourceCore": "Дані Ядра",
     "FILES.SourceS3": "Amazon S3",
     "FILES.BrowseTooltip": "Переглянути Файли",
-    
     "FONTS.AddFont": "Додати шрифт",
     "FONTS.Type": "Тип Шрифту",
     "FONTS.TypeFile": "Файл",
@@ -727,12 +701,9 @@
     "FONTS.RemoveFont": "Видалити Шрифт",
     "FONTS.Style": "Стиль Шрифту",
     "FONTS.Weight": "Жирність Шрифту",
-    
     "GAME.Paused": "Гру призупинено",
     "GAME.PausedWarning": "Ви не можете зробити цю дію, поки гра призупинена.",
-    
     "INFO.SceneViewCanvasDisabled": "Сцена \"{name}\" вже переглянута, але не відображається, тому що ігрове полотно вимкнено.",
-    
     "INVITATIONS.Copied": "Посилання на запрошення до гри скопійовано в буфер обміну",
     "INVITATIONS.Instructions": "Поділіться нижченаведеними посиланнями на запрошення з користувачами, яких ви бажаєте запросити до своєї гри. Локальне посилання на запрошення призначене для користувачів вашої локальної мережі, тоді як Інтернет-посилання з'єднується через Інтернет з налаштованим портом.",
     "INVITATIONS.Internet": "Інтернет",
@@ -742,9 +713,7 @@
     "INVITATIONS.ClosedConnection": "З'єднання є Закритим",
     "INVITATIONS.UnknownConnection": "Ми не змогли виявити статус вашого з'єднання",
     "INVITATIONS.DiscoveryFailed": "Наш сервіс виявлення IP-адреси не зміг ідентифікувати ваш правильний IP-адресу, ви використовуєте IPv6 або в даний час не підключені до Інтернету.",
-    
     "ITEM.ViewArt": "Переглянути Обкладинку Предмета",
-    
     "HUD.AssignStatusEffects": "Призначити Статус Ефектів",
     "HUD.ToggleCombatState": "Змінити Стан Бою",
     "HUD.ToggleVis": "Перемкнути стан видимості",
@@ -755,7 +724,6 @@
     "HUD.TileUnderfoot": "Нижній Тайл",
     "HUD.TilePlay": "Відтворити Відео Тайла",
     "HUD.TilePause": "Призупинити Відео Тайла",
-    
     "JOURNAL.ModeText": "Текст",
     "JOURNAL.ModeImage": "Зображення",
     "JOURNAL.ActionShow": "Показати Гравцям",
@@ -781,7 +749,6 @@
     "JOURNAL.ShowBadPermissions": "Ви можете показати лише Журнали чи Сторінки, якими ви володієте.",
     "JOURNAL.ShowNoPlayers": "Немає інших підключених гравців, для відображення цього.",
     "JOURNAL.ShowOwnershipHint": "Опціонально оновіть власність цього документа для гравців, яким він показується. Якщо у гравця вже є більший рівень власності, то він не буде знижуватися.",
-    
     "JOURNALENTRYPAGE.DefaultPageSheet": "Лист Сторінки за Замовчуванням {page}",
     "JOURNALENTRYPAGE.Format": "Формат",
     "JOURNALENTRYPAGE.Page": "Сторінка",
@@ -807,7 +774,6 @@
     "JOURNALENTRYPAGE.ShowTitle": "Показати Заголовок Сторінки",
     "JOURNALENTRYPAGE.HeadingLevel": "Рівень Заголовка",
     "JOURNALENTRYPAGE.Level": "Рівень {level}",
-    
     "KEYBINDINGS.NavLabel": "Вкладки Конфігурації Клавіш",
     "KEYBINDINGS.ActionCategories": "Категорії Дій",
     "KEYBINDINGS.AllActions": "Всі Дії",
@@ -857,7 +823,6 @@
     "KEYBINDINGS.ErrorIllegalModifier": "Запитаний модифікатор \"{key}\" не є допустимим значенням в KeyboardManager.MODIFIER_KEYS",
     "KEYBINDINGS.ErrorReservedModifier": "Не можна встановити \"{key}\" як прив'язку, оскільки це зарезервований модифікатор для цієї дії прив'язки клавіш",
     "KEYBINDINGS.FocusChat": "Сфокусувати чат",
-    
     "LIGHT.ConfigTitle": "Налаштування Джерела Світла",
     "LIGHT.NavLabel": "Вкладки Налаштування Світла",
     "LIGHT.HeaderBasic": "Основні Налаштування",
@@ -933,7 +898,6 @@
     "LIGHT.AnimationForceGrid": "Силова Сітка",
     "LIGHT.AnimationStarLight": "Зіркове Світло",
     "LIGHT.AnimationSmokePatch": "Димовий Шлях",
-    
     "MACRO.Delete": "Видалити макрос",
     "MACRO.DeleteWarning": "Цей макрос буде остаточно видалений для всіх користувачів.",
     "MACRO.Edit": "Редагувати макрос",
@@ -945,13 +909,11 @@
     "MACRO.PageUp": "Попередня сторінка панелі макросів",
     "MACRO.PageDown": "Наступна сторінка панелі макросів",
     "MACRO.NavLabel": "Панель макросів",
-    
     "MENU.NavLabel": "Головне Меню",
     "MENU.Reload": "Перезавантажити Додаток",
     "MENU.Logout": "Вийти",
     "MENU.Players": "Керування Користувачами",
     "MENU.Setup": "Повернутися до Налаштувань",
-    
     "MODMANAGE.Bugs": "Звіти про помилки або проблеми",
     "MODMANAGE.DeactivateAll": "Вимкнути Усі Модулі",
     "MODMANAGE.Readme": "Документація Модуля",
@@ -975,7 +937,6 @@
     "MODMANAGE.RequiredModule": "Цей модуль повинен бути активним",
     "MODMANAGE.DependencyIssues": "Не може бути увімкнено через проблеми в обов'язкових залежностях",
     "MODMANAGE.NavLabel": "Навігація Керування Модулями",
-    
     "NOTE.AnchorPoint": "Точка Прив’язки Тексту",
     "NOTE.ConfigTitle": "Налаштування Нотаток Мапи",
     "NOTE.Create": "Створити Нотатку Мапи",
@@ -987,13 +948,12 @@
     "NOTE.FontFamily": "Сімейство Шрифтів",
     "NOTE.Global": "Глобальне Відображення",
     "NOTE.GlobalHint": "Показувати нотатки цієї мапи в будь-якому місці карти гравцям з дозволом на її перегляд.",
-    "NOTE.IconSize": "Розмір Іконки", 
+    "NOTE.IconSize": "Розмір Іконки",
     "NOTE.IconTint": "Відтінок Іконки",
     "NOTE.TextLabel": "Текстова Мітка",
     "NOTE.TextColor": "Колір Тексту",
     "NOTE.Unknown": "Невідомий",
     "NOTE.Update": "Оновити Нотатку Мапи",
-    
     "NUE.FirstLaunchBody": "Схоже на новий світ. Для початку необхідно додати до списку додаткових гравців через конфігурацію <a class=\"nue-tab\" data-tab=\"settings\">Керування користувачами</a>. Звідси ви можете створити <a class=\"nue-tab\" data-tab=\"actors\">Акторів</a> для них, а також будь-які інші важливі особи, які вам потрібно представити. Мапи та інші візуальні засоби можна встановити за допомогою <a class=\"nue-tab\" data-tab=\"scenes\">Сцен</a> і роздаткові матеріали, замітки та інша інформація можуть зберігатися в <a class=\"nue-tab\" data-tab=\"journal\">Журнал</a>.",
     "NUE.FirstLaunchHeader": "Перші Кроки",
     "NUE.FirstLaunchHint": "<i class=\"fas fa-info-circle\"></i> Цю картку чату можна вивести правою кнопкою миші, або ви можете витягнути всю вкладку чату нажавши ПКМ по іконці \"Пузир мовлення\" вгорі. Можна використовувати це, щоб вивести будь-яку з інших вкладок на бічній панелі.",
@@ -1001,7 +961,6 @@
     "NUE.FirstLaunchInviteBody": "Коли все налаштовано, і ви готові запросити гравців, ви можете відправити їм посилання на ваш світ від <a class=\"nue-action\" data-action=\"invite\">Посилання Запрошення</a>.",
     "NUE.FirstLaunchKB": "Переконайтеся, що всі вкладки доступні на бічній панелі, та що більш детальна інформація, ви можете переглянути в <a href=\"https://foundryvtt.com/article/tutorial/\" target=\"_blank\">Ігровий Підручник</a> в нашій <a href=\"https://foundryvtt.com/kb/\" target=\"_blank\">Базі Знань</a>.",
     "NUE.FirstLaunchTroubleshooting": "Якщо діалогове вікно запрошення вказує на те, що ваше підключення закрито, вам може знадобитися налаштувати пересилання порту. Ви можете знайти інструкції для цього в нашому <a href=\"https://foundryvtt.com/article/port-forwarding/\" target=\"_blank\">Port Forwarding Guide</a>. Якщо тобі все ще потрібна допомога, ти ласкаво просимо приєднатися до нашого Discord і зробити допис у <a href=\"https://discord.com/channels/170995199584108546/689889940590690323\" target=\"_blank\">#install-and-connection</a> для вирішення проблем із запрошенням <a href=\"https://discord.com/channels/170995199584108546/486930822465716249\" target=\"_blank\">#troubleshooting</a> для загальних проблем з програмним забезпеченням, або <a href=\"https://discord.com/channels/170995199584108546/713259405667205193\" target=\"_blank\">#core-how-to</a> щоб дізнатися, як щось зробити в Foundry VTT.",
-    
     "PLAYERS.Title": "Гравці",
     "PLAYERS.CharSelect": "Вибрати Персонажа",
     "PLAYERS.CharSelected": "Вибраний Персонаж",
@@ -1015,7 +974,6 @@
     "PLAYERS.Kick": "Викинути Гравця",
     "PLAYERS.Ban": "Забанити Гравця",
     "PLAYERS.UnBan": "Розбанити Гравця",
-    
     "PLAYLIST.Delete": "Видалити плейлист",
     "PLAYLIST.Edit": "Редагувати плейлист",
     "PLAYLIST.GlobalVolume": "Глобальні контроли гучності",
@@ -1059,10 +1017,9 @@
     "PLAYLIST.BulkImportWarning": " мелодій, які могли б бути імпортовані з папки шляху \"{path}\"",
     "PLAYLIST.PinToTop": "Закріпити вгорі",
     "PLAYLIST.PinToBottom": "Закріпити знизу",
-    
-    "SCENES.Accessibility" : "Дозволи",
-    "SCENES.AccessibilityGM" : "Тільки ГМ",
-    "SCENES.AccessibilityAll" : "Усі Гравці",
+    "SCENES.Accessibility": "Дозволи",
+    "SCENES.AccessibilityGM": "Тільки ГМ",
+    "SCENES.AccessibilityAll": "Усі Гравці",
     "SCENES.Activate": "Активувати",
     "SCENES.AudioPlaylist": "Список Відтворення Сцени",
     "SCENES.AudioPlaylistHint": "Список Відтворення, який автоматично починатиме відтворення під час активації цієї сцени.",
@@ -1150,7 +1107,6 @@
     "SCENES.FogExploredColorHint": "Колір, застосований до всіх областей Сцени, які були досліджені, але знаходяться поза поточною зоною бачення.",
     "SCENES.FogUnexploredColor": "Колір Недослідженого Туману Війни",
     "SCENES.FogUnexploredColorHint": "Суцільний колір, який застосовується до всіх недосліджених областей Сцени.",
-    
     "SETTINGS.Configure": "Налаштування Параметрів",
     "SETTINGS.CombatThemeN": "Бойова Тема",
     "SETTINGS.CombatThemeL": "Набір Мелодій, які будуть грати при початку Битви, коли ваш хід буде наступний, і коли зараз ваш хід",
@@ -1229,7 +1185,6 @@
     "SETTINGS.EditorAutosaveH": "Кількість секунд між кожним автозбереженням в редакторі ProseMirror.",
     "SETTINGS.ReloadPromptTitle": "Перезавантажити Застосунок?",
     "SETTINGS.ReloadPromptBody": "Деякі зі змінених налаштувань потребують перезавантаження застосунку, щоб набрати чинності. Перезавантажити зараз?",
-    
     "SETUP.NavLabel": "Налаштувати Вкладки",
     "SETUP.CoreVersion": "Версія ПЗ",
     "SETUP.CoreVersionHint": "При наявності оновлення Foundry Virtual Tabletop можна побачити його тут. Зараз ви використовуєте {versionDisplay}.",
@@ -1260,13 +1215,13 @@
     "SETUP.UpdateCheck": "Оновити",
     "SETUP.UpdateCheckFor": "Перевірити Наявність Оновлень",
     "SETUP.UpdateHint": "Ви можете оновити Foundry Virtual Tabletop до нової версії шляхом перевірки оновлення на бажаному Каналі Оновлення.",
-    "SETUP.UpdatePrototype": "Prototype",
+    "SETUP.UpdatePrototype": "Прототип",
     "SETUP.UpdatePrototypeHint": "Прототип: Релізи для перегляду дизайну експериментальних функцій, які ще не повністю розроблені.",
-    "SETUP.UpdateDevelopment": "Development",
+    "SETUP.UpdateDevelopment": "Розробка",
     "SETUP.UpdateDevelopmentHint": "API Development: Релізи для тестування дизайну нових функцій і зміни API, щоб отримати відгук від спільноти розробників.",
-    "SETUP.UpdateTesting": "Testing",
+    "SETUP.UpdateTesting": "Тестування",
     "SETUP.UpdateTestingHint": "Feature Testing: Релізи для тестування нових функцій, щоб отримати відгуки від загальної спільноти користувачів.",
-    "SETUP.UpdateStable": "Stable",
+    "SETUP.UpdateStable": "Стабільна версія",
     "SETUP.UpdateStableHint": "Stable: Релізи, які були ретельно протестовані та рекомендовані для використання в іграх.",
     "SETUP.ForceUpdateHint": "Вибір параметра Примусове Оновлення перезапише ваше поточне програмне забезпечення, відновивши його до останньої версії на запитаному каналі оновлення. Використовуйте цю опцію з обережністю.",
     "SETUP.Uninstall": "Видалити",
@@ -1285,17 +1240,14 @@
     "SETUP.LockHint": "Блокування Пакунка запобігає його видаленню або оновленню",
     "SETUP.BeginDownload": "Почати Завантаження",
     "SETUP.FullListOfReleaseNotes": "Щоб побачити повний список Нотаток Релізу, будь ласка, перегляньте {url}",
-    
     "SETUP.ManifestUpdate": "Оновлена версія доступна за новою URL-адресою",
     "SETUP.ManifestUpdateAvailable": "Новіша версія \"{package}\" доступна за іншою URL-адресою встановлення. Це відбувається, коли місце розташування пакунка або автор змінився.",
     "SETUP.PriorManifestUrl": "Попередня URL-адреса Маніфесту (Версія {version})",
     "SETUP.UpdatedManifestUrl": "Оновлено URL Маніфесту (Версія {version})",
     "SETUP.SwapToTheUpdatedManifest": "Хотіли б ви перейти на нову URL-адресу маніфесту? (рекомендується)",
-    
     "SETUP.ConfigSave": "Зберегти Конфігурацію Застосунку",
     "SETUP.ConfigSaveWarning": "Змінення цих параметрів призведе до вимкнення сервера і потребує перезавантаження сервера вручну. Бажаєте продовжити?",
     "SETUP.ConfigSaveRestart": "Сервер Foundry Virtual Tabletop був вимкнений з застосованими змінами налаштувань. Вам необхідно вручну перезапустити сервер.",
-
     "SETUP.CurrentVersion": "Поточна Версія",
     "SETUP.ForceUpdate": "Примусове Оновлення?",
     "SETUP.DependencyNotInstalled": "Ця залежність не встановлена",
@@ -1329,7 +1281,6 @@
     "SETUP.PackageVisAll": "Всі Пакунки",
     "SETUP.PackageVisInst": "Лише Встановлені",
     "SETUP.PackageVisUnin": "Лише Не Встановлені",
-    
     "SETUP.PackageHasDependenciesSingular": "{title} має залежність, яка ще не встановлена. Ви не можете використовувати цей пакунок, якщо ця залежність відсутня.",
     "SETUP.PackageHasDependenciesPlural": "{title} має {number} залежностей ще не встановлено. Ви не можете використовувати цей пакунок, якщо ці залежності відсутні.",
     "SETUP.PackageDependenciesTitle": "Встановити Залежності Пакунку",
@@ -1358,7 +1309,6 @@
     "SETUP.PackageStatusCurrent": "Поточний",
     "SETUP.PackageStatusUpdating": "Оновлення",
     "SETUP.PackageStatusUpdated": "Оновлений",
-    
     "SETUP.UpdateDownloadingS": "Завантаження Оновлення",
     "SETUP.UpdateDownloadingC": "Завантаження Завершено",
     "SETUP.UpdateExtractingS": "Розпакування Оновлення",
@@ -1369,7 +1319,6 @@
     "SETUP.UpdateInstallingC": "Встановлення Завершено",
     "SETUP.UpdateCompleteManual": "Оновлення успішно завершено. Вимкнення сервера Foundry Virtual Tabletop для ручного перезапуску.",
     "SETUP.UpdateCompleteAuto": "Оновлення успішно завершено. Перезапустіть застосунок Foundry VTT.",
-    
     "SETUP.UpdateNoInternetError": "Foundry Virtual Tabletop вимагає наявності підключення до інтернету для оновлення.",
     "SETUP.UpdateWebsiteUnreachableError": "Наразі ми не можемо зв’язатися з https://foundryvtt.com, будь ласка, спробуйте ще раз пізніше.",
     "SETUP.UpdateWebsiteSlowWarning": "Схоже, зараз ви вже завантажили https://foundryvtt.com. Рекомендуємо вам спробувати ще раз пізніше.",
@@ -1383,7 +1332,6 @@
     "SETUP.UpdatedPackages": "Журнал Оновлень Пакунків",
     "SETUP.Package": "Пакунок",
     "SETUP.VersionChange": "Змінити Версію",
-    
     "SETUP.WorldMigrationRequiredTitle": "Вимагається Міграція Даних Світу",
     "SETUP.WorldMigrationRequired": "<p>Запуск світу <strong>{world}</strong> мігрує свою модель даних зі старої версії програмного забезпечення (<code>{oldVersion}</code>) до встановленої <strong>{newVersion}</strong>.</p>",
     "SETUP.WorldMigrationSystemUnavailable": "<p>Встановлена версія <strong>{system}</strong> (<code>{systemVersion}</code>) ігрової системи не підтверджена як сумісна з цією версією програмного забезпечення. Успішна міграція не може бути гарантована.</p>",
@@ -1391,14 +1339,12 @@
     "SETUP.WorldMigrationBackupPrompt": "<p><strong>Неможливо повернути цей процес</strong>. Ми рекомендуємо зробити резервну копію даних у світі, перш ніж продовжити. Для відновлення до попередньої версії програмного забезпечення знадобиться резервна копія</p>",
     "SETUP.WorldMigrationBegin": "Почати Міграцію",
     "SETUP.WorldMigrationInProcess": "Ваші дані світу мігрують для сумісності з версією {version}. Це може зайняти деякий час. Будь ласка, залишайтеся терплячим і не закривайте програму.",
-       
     "SETUP.AdminAccess": "Foundry Virtual Tabletop &bull; Доступ Адміністратора",
     "SETUP.AdminPasswordLabel": "Пароль Адміністратора",
     "SETUP.AdminPasswordHint": "Ви можете призначити спеціальний пароль адміністратора, який потрібен для того, щоб отримати доступ до головного меню.",
     "SETUP.AdminPasswordPrompt": "Ви повинні надати пароль адміністратора для доступу до налаштувань застосунку.",
     "SETUP.AdminPasswordForgot": "Якщо ви забули свій пароль, ви можете відновити його слідуючи <a href='https://foundryvtt.com/article/reset-admin-password/' target='_blank'>цій інструкції</a>.",
     "SETUP.AdminLogout": "Вихід з Адміністрування",
-    
     "SETUP.AWSLabel": "Шлях до Конфігурації AWS",
     "SETUP.AWSHint": "Ви можете вказати файл конфігурації AWS для інтеграції S3. Шлях є абсолютним або відносним до підкаталогу Конфігурації даних користувача.",
     "SETUP.CompressStaticLabel": "Стискати Статичні Файли",
@@ -1415,7 +1361,6 @@
     "SETUP.SSLCertLabel": "SSL-сертифікат",
     "SETUP.SSLCertHint": "Ви можете запустити сервер за допомогою шифрування захищеного сокета (SSL), надавши шляхи до сертифіката і до файлів ключів. Шляхи є абсолютними або відносно підкаталогу конфігурації у даних користувача.",
     "SETUP.SSLKeyLabel": "Приватний Ключ SSL",
-    
     "PACKAGE.TagJavaScript": "JavaScript",
     "PACKAGE.TagCSS": "CSS",
     "PACKAGE.TagCompendium": "Компендіум",
@@ -1430,13 +1375,11 @@
     "PACKAGE.SetupErrors": "{number} критичні помилки виникли з встановленими Пакунками. Для отримання деталей відкрийте журнал консолі (F12).",
     "PACKAGE.SetupWarnings": "{number} попередження сумісності виявлені з встановленими Пакунками. Для отримання деталей відкрийте журнал консолі (F12).",
     "PACKAGE.InstallFailed": "Під час встановлення пакету були виявлені помилки. Для отримання деталей відкрийте журнал консолі (F12).",
-    
     "PACKAGECONFIG.All": "Всі",
     "PACKAGECONFIG.Reset": "Скинути",
     "PACKAGECONFIG.Filter": "Фільтр",
     "PACKAGECONFIG.Core": "Ядро",
     "PACKAGECONFIG.Unmapped": "Не Призначено",
-    
     "JOIN.CurrentPlayers": "Зараз Грають",
     "JOIN.HeaderJoin": "Приєднатися до Ігрової Сесії",
     "JOIN.HeaderDetails": "Деталі Гри",
@@ -1446,12 +1389,10 @@
     "JOIN.SelectUser": "Виберіть Користувача",
     "JOIN.UserKey": "Пароль Користувача",
     "JOIN.AuthAdmin": "Ви є авторизованими як адміністратор сервера.",
-    
     "JOIN.ErrorUserDoesNotExist": "Запитаний Користувач, \"{user}\", не існує!",
     "JOIN.ErrorInvalidPassword": "Надано невірний пароль для {user}!",
     "JOIN.ErrorBanned": "{user} не має дозволу на доступ до цього світу!",
     "JOIN.LoginSuccess": "Ви успішно приєдналися як {user}!",
-    
     "SHEETS.ThisSheet": "Цей Аркуш",
     "SHEETS.DefaultSheet": "Аркуш за Замовчуванням",
     "SHEETS.DefaultDocumentSheet": "Аркуш за Замовчуванням {document}",
@@ -1460,7 +1401,6 @@
     "SHEETS.DocumentSheetPrivate": "У вас недостатньо прав для перегляду аркуша {type}.",
     "SHEETS.Save": "Зберегти Конфігурацію Аркуша",
     "SHEETS.FormNavLabel": "Навігація Вкладок Форми",
-    
     "SOUND.ConfigTitle": "Налаштування Звуків Оточення",
     "SOUND.ConfigHint": "Налаштування звуків оточення, які будуть відтворюватися, коли токени перебувають в цьому радіусі.",
     "SOUND.Create": "Створити Звук Оточення",
@@ -1477,7 +1417,6 @@
     "SOUND.DarknessRangeHint": "Ви можете вказати діапазон рівня темряви, під час якого цей звук буде чутним.",
     "SOUND.Walls": "Обмежений Стінами",
     "SOUND.WallsHint": "Встановлює, чи буде область впливу для цього джерела звуку обмежена прилеглими стінами.",
-    
     "FOLDER.Clear": "Очистити Папкку",
     "FOLDER.Color": "Колір Папки",
     "FOLDER.Create": "Створити Папку",
@@ -1503,10 +1442,8 @@
     "FOLDER.ExportDone": "Завершено експорт {type} в Компендіум {compendium}.",
     "FOLDER.CreateTable": "Створити Таблицю Кидків",
     "FOLDER.CreateTableConfirm": "Створити нову Таблицю Кидків використовуючи вміст цієї папки в якості результатів?",
-    
     "FOLDER.DocumentSort": "Сортування",
     "FOLDER.DocumentSortHint": "Налаштуйте порядок сортування цього Документа відносно інших в його колекції. Спочатку сортуються менші номери.",
-    
     "OWNERSHIP.Title": "Налаштування Володіння",
     "OWNERSHIP.NONE": "Немає",
     "OWNERSHIP.LIMITED": "Обмежено",
@@ -1519,7 +1456,6 @@
     "OWNERSHIP.HintFolder": "Налаштувати доступ до всіх документів в межах цієї теки. Зміни будуть застосовані до всіх Документів, крім вмісту підтек.",
     "OWNERSHIP.HintDocument": "Налаштувати доступ до конкретного Документа, що дозволяє кожному користувачеві призначити різний рівень видимості.",
     "OWNERSHIP.Configure": "Налаштувати Володіння",
-    
     "PERMISSION.Title": "Налаштування Дозволів Користувача",
     "PERMISSION.Configure": "Налаштувати Дозволи",
     "PERMISSION.ConfigureLabel": "Відкрити Налаштування Дозволів",
@@ -1570,7 +1506,6 @@
     "PERMISSION.WallDoors": "Відкрити та Закрити Двері",
     "PERMISSION.WallDoorsHint": "Дозволити користувачам з цією роллю взаємодіяти з дверима, визначеними на Шарі Стін.",
     "PERMISSION.WarningNoCreate": "У вас недостатньо прав для створення {document}.",
-    
     "SIDEBAR.Import": "Імпортувати Дані",
     "SIDEBAR.NavLabel": "Бічна Панель",
     "SIDEBAR.TabCompendium": "Компендіуми",
@@ -1590,7 +1525,6 @@
     "SIDEBAR.DirectoryTitle": "{type} Каталог",
     "SIDEBAR.Documentation": "Документація Foundry VTT",
     "SIDEBAR.Wiki": "Вікі Спільнота Foundry VTT",
-    
     "SUPPORT.Title": "Деталі Підтримки",
     "SUPPORT.Places": "Місця для Отримання Підтримки",
     "SUPPORT.Discord": "Щоб приєднатися до інших людей, які використовують Foundry VTT, або щоб отримати підтримку від наших чудових помічників спільноти, приєднуйтесь до нашого Discord тут:",
@@ -1603,7 +1537,6 @@
     "SUPPORT.GPU": "GPU",
     "SUPPORT.MaxTextureSize": "Максимальний Розмір Текстур",
     "SUPPORT.NoViewedScene": "Немає Переглянутих Сцен",
-    
     "TABLE.AnimateSetting": "Анімована Таблиця Кидків",
     "TABLE.AnimateSettingHint": "Показувати анімацію перебору значень при використанні Таблиць Кидків.",
     "TABLE.DrawFlavor": "Повертає результати з таблиці {name}",
@@ -1625,7 +1558,6 @@
     "TABLE.Roll": "Кинути",
     "TABLE.ToggleDrawn": "Заблокувати Результат",
     "TABLE.Update": "Оновити",
-    
     "TEMPLATE.BorderColor": "Колір Рамки",
     "TEMPLATE.ConeTypeSetting": "Тип Шаблону Конуса",
     "TEMPLATE.ConeTypeSettingHint": "Виберіть, як має бути визначена область впливу для шаблонів конуса.",
@@ -1636,7 +1568,6 @@
     "TEMPLATE.FillTexture": "Шаблон Заповнення",
     "TEMPLATE.SubmitCreate": "Створювати Вимірюваний Шаблон",
     "TEMPLATE.SubmitUpdate": "Оновити Вимірюваний Шаблон",
-    
     "TILE.ConfigTitle": "Налаштування Тайла",
     "TILE.SubmitCreate": "Створити Тайл",
     "TILE.SubmitUpdate": "Оновити Тайл",
@@ -1665,7 +1596,6 @@
     "TILE.VideoLoop": "Повторювати Відео",
     "TILE.VideoAutoplay": "Автовідтворення Відео",
     "TILE.VideoVolume": "Гучність Відео",
-
     "TIME.Now": "Зараз",
     "TIME.Seconds": "Секунди",
     "TIME.SecondsAbbreviation": "с",
@@ -1675,13 +1605,11 @@
     "TIME.HoursAbbreviation": "год",
     "TIME.DaysAbbreviation": "дн",
     "TIME.Since": "{since} тому",
-    
     "TOKEN.HeaderIdentity": "Ідентичність",
     "TOKEN.HeaderAppearance": "Вигляд",
     "TOKEN.HeaderVision": "Бачення",
     "TOKEN.HeaderLight": "Світло",
     "TOKEN.HeaderResources": "Ресурси",
-    
     "TOKEN.Assign": "Призначити Токен",
     "TOKEN.AssignWarn": "Ви повинні вибрати один існуючий Токен для призначення в якості нової конфігурації прототипу.",
     "TOKEN.AssignSuccess": "Оновлено конфігурацію прототипу Токена для {name}",
@@ -1741,7 +1669,6 @@
     "TOKEN.DISPLAY_HOVER": "При Наведенні Будь-Ким",
     "TOKEN.DISPLAY_OWNER": "Завжди для Власника",
     "TOKEN.DISPLAY_ALWAYS": "Завжди для Всіх",
-    
     "TOKEN.SightNavLabel": "Вкладки Налаштування Бачення",
     "TOKEN.SightHeaderBasic": "Основні Налаштування",
     "TOKEN.SightHeaderAdvanced": "Просунуті Налаштування",
@@ -1751,14 +1678,12 @@
     "TOKEN.DetectionEnabled": "Увімкнено",
     "TOKEN.DetectionAdd": "Додати Режим Виявлення",
     "TOKEN.DetectionRemove": "Видалити Режим Видалення",
-    
     "DETECTION.BasicSight": "Базове Бачення",
     "DETECTION.SeeInvisibility": "Бачення Невидимого",
     "DETECTION.SenseInvisibility": "Відчуття Невидимих",
     "DETECTION.FeelTremor": "Відчуття Вібрації",
     "DETECTION.SenseAll": "Відчуття Всього",
     "DETECTION.SeeAll": "Бачення Всього",
-    
     "Tours.NavLabel": "Вікна Керування Оглядом",
     "TOURS.ShowMeHow": "Як це зробити",
     "TOURS.TourCategories": "Категорії Оглядів",
@@ -1778,7 +1703,6 @@
     "TOURS.ResetSuccess": "Скинути статус завершення всіх оглядів.",
     "TOURS.SuggestedTitle": "Запропонований Наступний Огляд",
     "TOURS.SuggestedDescription": "<p>Ви завершили <strong>{currentTitle}</strong> Огляд.</p><p>Ми пропонуємо наступний <strong>{nextTitle}</strong> Огляд. Хочете продовжити?</p>",
-        
     "USER.RoleNone": "Немає",
     "USER.RolePlayer": "Гравець",
     "USER.RoleTrusted": "Довірений Гравець",
@@ -1796,7 +1720,6 @@
     "USERS.NoGMError": "Ви повинні мати як мінімум одного Майстра Гри у вашому Світі.",
     "USERS.DeleteWarning": "Цей користувач буде остаточно видалено з ігрового світу.",
     "USERS.DeleteGMWarning": "Ви збираєтеся видалити Майстра Гри!",
-    
     "VISION.ModeBlindness": "Сліпота",
     "VISION.ModeBasicVision": "Базове Бачення",
     "VISION.ModeDetectInvisibility": "Виявлення Невидимого",
@@ -1804,7 +1727,6 @@
     "VISION.ModeMonochromatic": "Монохромний",
     "VISION.ModeTremorsense": "Відчуття Вібрації",
     "VISION.ModeLightAmplification": "Посилення Світла",
-    
     "WALLS.Title": "Налаштування Стіни",
     "WALLS.TitleMany": "Налаштування Стіни [Multiple]",
     "WALLS.Instructions": "Налаштовуйте як цей сегмент стіни обмежує рух або почуття.",
@@ -1817,13 +1739,11 @@
     "WALLS.Door": "Це Двері?",
     "WALLS.DoorState": "Стан Дверей",
     "WALLS.Submit": "Оновити Стіну",
-    
     "WORLD.TitleCreate": "Створити Світ",
     "WORLD.TitleEdit": "Редагувати Світ",
     "WORLD.SubmitEdit": "Оновити Світ",
     "WORLD.DetailTab": "Деталі Світу",
     "WORLD.DescTab": "Опис Світу",
-    
     "WEBRTC.Title": "Налаштування Аудіо/Відео",
     "WEBRTC.MenuLabel": "Налаштувати Аудіо/Відео",
     "WEBRTC.MenuHint": "Налаштувати параметри для інтегрованих компонентів Аудіо/Відео WebRTC",
@@ -1873,7 +1793,6 @@
     "WEBRTC.DockPositionRight": "Праворуч",
     "WEBRTC.DockPositionBottom": "Знизу",
     "WEBRTC.DockPositionLeft": "Ліворуч",
-    
     "WEBRTC.TooltipAllowUserVideo": "Дозволити Відео Користувача",
     "WEBRTC.TooltipBlockUserVideo": "Заблокувати Відео Користувача",
     "WEBRTC.TooltipAllowUserAudio": "Дозволити Аудіо Користувача",
@@ -1897,7 +1816,6 @@
     "WEBRTC.NameplatesPlayer": "Тільки ім'я гравця",
     "WEBRTC.NameplatesCharacter": "Тільки ім'я персонажа",
     "WEBRTC.NameplatesBoth": "Обидва Імені",
-    
     "WEBRTC.CaptureWarningVideo": "Не вдалося захопити звук з ваших Аудіо пристроїв; поширення лише Відео",
     "WEBRTC.CaptureWarningAudio": "Не вдалося захопити зображення з ваших Відео пристроїв; поширення лише Аудіо",
     "WEBRTC.CaptureErrorAudioVideo": "Не вдалося захопити данні з ваших Аудіо і Відео пристроїв",
@@ -1909,11 +1827,9 @@
     "WEBRTC.NoSSLError": "Не можна використовувати Аудіо/Відеодзвінки, якщо ваш сервер Foundry VTT не використовує SSL-сертифікати. Інструкції дивіться в онлайн документації.",
     "WEBRTC.WarningCannotEnableVideo": "Ви не можете увімкнути камеру, оскільки у вас немає дозволу на трансляцію відео.",
     "WEBRTC.WarningCannotEnableAudio": "Ви не можете увімкнути мікрофон, оскільки у вас немає дозволу на трансляцію звуку.",
-    
     "WEATHER.Rain": "Дощ",
     "WEATHER.Snow": "Сніг",
     "WEATHER.AutumnLeaves": "Осіннє листя",
-    
     "WORLD.Title": "Назва Світу",
     "WORLD.DataPath": "Шлях до Даних",
     "WORLD.GameSystem": "Ігрова Система",
